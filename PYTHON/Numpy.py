@@ -34,7 +34,7 @@ print(type(arr))
 # In[7]:
 
 
-list1 = list([1,2,3,4,5,6])
+list1 = list([1,2,3,4,5,5,6])
 arr1 = S.array(list1)
 print(arr1)
 print(type(arr1))
